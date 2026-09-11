@@ -16,6 +16,6 @@ export const dependencyVersions = {
   typescript: "6.0.3",
   ultracite: "7.9.4",
   vite: "8.1.3",
-  vitest: "4.1.10",
+  vitest: "4.1.11",
   wrangler: "4.109.0",
 } as const;
